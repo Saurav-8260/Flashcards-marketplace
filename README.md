@@ -36,7 +36,9 @@ All while ensuring ownership, transparency, and censorship-resistance.
 ---
 
 ## 5. Contract Address
-`SP2C2D0QW1234EXAMPLE5678DECKMARKETPLACE9XYZ`
+`ST38N9D3CKCXAS89VVX84M9QG3D2R6XVPEJ9PWK6Y.project`
+<img width="1908" height="982" alt="image" src="https://github.com/user-attachments/assets/944307cb-2f83-4751-b5e0-033a5be11fa1" />
+
 
 (Note: Replace with your deployed contract address on Stacks mainnet or testnet.)
 
