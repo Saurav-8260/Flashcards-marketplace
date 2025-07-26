@@ -40,7 +40,7 @@ All while ensuring ownership, transparency, and censorship-resistance.
 <img width="1908" height="982" alt="image" src="https://github.com/user-attachments/assets/944307cb-2f83-4751-b5e0-033a5be11fa1" />
 
 
-(Note: Replace with your deployed contract address on Stacks mainnet or testnet.)
+
 
 ---
 
